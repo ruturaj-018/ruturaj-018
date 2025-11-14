@@ -9,14 +9,14 @@
 
 ---
 
-## 🧬 **WHO IS RUTURAJ?**
+## 🧬 **WHO IS ruturaj-018?**
 
 ```python
 class Ruturaj:
     def __init__(self):
         self.name = "Ruturaj Mankapure"
         self.role = "Data Analyst"
-        self.location = "Kolhapur, Maharashtra 🇮🇳"
+        self.location = "Bangalore, Karnataka 🇮🇳"
         self.education = "B.Tech in AI & Data Science"
         self.mindset = "Collect. Analyze. Interpret. Transform."
         
