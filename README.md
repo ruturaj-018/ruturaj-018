@@ -315,6 +315,4 @@ Impact: Build tech that leaves a mark
 
 </div>
 
-
-
 </div>
